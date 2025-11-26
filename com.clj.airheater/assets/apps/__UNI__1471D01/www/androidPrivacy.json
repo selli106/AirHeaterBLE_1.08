@@ -1,0 +1,24 @@
+{
+    "version" : "1",
+    "prompt" : "template",
+    "title" : "服务协议和隐私政策(Service Agreement and Privacy Policy)",
+    "message" : "　　请你务必审慎阅读、充分理解<a href=\"https://www.booyood.com/privacypolicy.html\">《用户隐私保护协议》</a>各条款了解详细信息。如果你同意，请点击下面按钮开始接受我们的服务。</a>\r
+   Please be sure to read carefully and fully understand the <a href=\"https://www.booyood.com/privacypolicy.html\"> 《User Privacy Protection Agreement》 </a> for details.</a>    If you agree, please click the button below to start receiving our services.",
+    "buttonAccept" : "同意并接受 (Agree and accept)",
+    "buttonRefuse" : "暂不同意 (Disagree temporarily)",
+    "hrefLoader" : "system|default",
+    "backToExit" : "true",
+    "second" : {
+        "title" : "确认提示(Confirmation)",
+        "message" : "　　进入应用前，你需先同意<a href=\"https://www.booyood.com/privacypolicy.html\">《用户隐私保护协议》</a>，否则将退出应用。</a>\r
+   Before entering the application, you need to agree to < a href = \"https://www.booyood.com/privacypolicy.html\"> < / a > 《user privacy protection agreement》 </a> , otherwise will exit the application.",
+        "buttonAccept" : "同意并继续(Agree and continue)",
+        "buttonRefuse" : "退出应用(Exit)"
+    },
+    "disagreeMode" : {
+        "support" : false,
+        "loadNativePlugins" : false,
+        "visitorEntry" : false,
+        "showAlways" : false
+    }
+}
